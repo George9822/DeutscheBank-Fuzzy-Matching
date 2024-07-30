@@ -1,0 +1,8 @@
+# ignore ALL .log files
+*.zip
+
+# ignore ALL files in the following dirs:
+env/
+.history/
+__pycache__/
+bigger_dataframes/

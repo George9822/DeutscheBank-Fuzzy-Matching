@@ -1,0 +1,4 @@
+- The virtual environment (can be used for replicating the used env for developing/testing)
+- The jupyter notebooks that were used for testing and developing the code, and also for generating the artificial data.
+- A sample of data (1k rows for both df1 & df2).
+- The modularized code that can be run in terminal with: python main.py and it shows the elapsed time for each method/algo (also for the optimized and parallel optimized ones), which saves in the end a result dataframe from a merge between preprocessed dataframe with rapidfuzz parallel matching and client_df to get the info from client_df based on the matchedfullnames.
